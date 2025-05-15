@@ -1,0 +1,7 @@
+This project uses totally 5 classes :
+
+	- customer
+	- bill
+	- plan
+	- Home
+	- Database

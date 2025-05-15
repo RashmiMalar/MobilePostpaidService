@@ -1,0 +1,5 @@
+This is Mobile Postpaid service application totally based on the console.
+Database:
+	- mySql
+Java:
+	- java 23.0.1
